@@ -1,0 +1,8 @@
+<font size=50> <b style="color:red;background-color:green;
+border-style:groove;border-color:yellow">  wow this is really cool </font> </b>
+<textarea style="background-image:url(http://1.bp.blogspot.com/-1uQRYMklACU/ToQ6aL-5uUI/AAAAAAAAAgQ/9_u0922cL14/s1600/cute-puppy-dog-wallpapers.jpg)">
+Write stuff here </textarea> 
+<ol style="list-style-image:url('/1.bp.blogspot.com/-1uQRYMklACU/ToQ6aL-5uUI/AAAAAAAAAgQ/9_u0922cL14/s1600/cute-puppy-dog-wallpapers.jpg');list-style-type:lower-alpha;">
+<li> cat
+<li> dog
+</ol>
