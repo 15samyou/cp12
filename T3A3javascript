@@ -1,0 +1,80 @@
+<h1 align = center> Basic Javascript By Sam Young </h1> <br>
+<input type=button value="Reset" onclick="{getElementById('myOut').innerHTML='^^'}"> 
+
+
+<div id="myOut"> ^ </div> <br>
+
+
+<b onMouseOver="{for(myLoop=1;myLoop<=2;myLoop++){getElementById('myOut').innerHTML+=' test ' +myLoop}}">
+This is bold </b>
+<body style="font-size:25px">
+<hl Align= center>Cp12 by Sam </hl?
+<input type = button value="t3a3 Javascript" style="font-size:30px"
+onclick="location='t3a3 Javascript.html'"><br><br>
+<input type=button value="back to index" style="font-size:30px"onclick="location= 'index.html'"><br><br>
+<body onkeypress ="{alert('heyo!')}"></body>
+<body onkeyDown ="{alert(event.keyCode)}">
+<body onkeyDown = "{alert(String.fromCharCode(event.keyCode))
+if(String.fromCharCode(event.keyCode)=='a '{getElementByID('myOut').style.left-=10} 
+<div id="myOut" style=position:relative"> 
+This will be replaced </div> <br>
+
+
+
+
+
+
+<div id="myOut2" style="position:absolute;left:30;top:100;">THIS SENTENCE IS MYOUT2</div>
+
+
+<script>
+document.myx = 40
+</script>
+
+
+<br><br>
+
+
+
+
+<input type=button value="Up" onclick="
+  document.myx += -10
+  document.all.myOut2.style.top = document.myx+'px'
+">
+
+
+
+
+
+<table border=3>
+<tr> <td> <input type=button value="Left" onclick="
+  document.myx += -10 
+  document.all.myOut2.style.left = document.myx+'px'
+"> </td> 
+
+<td> <input type=button value="Down" onclick="
+  document.myx += 10
+  document.all.myOut2.style.top = document.myx+'px'
+"> </td> 
+<td> <input type=button value="Right" onclick="
+  document.myx += 10
+  document.all.myOut2.style.left = document.myx+'px'
+">  </td> 
+</tr> </table>
+
+
+
+<br>
+
+<input type=button value="Right" onClick ="{if (parseInt(document.all.myOut2.style.left)
+<= screen.width -20) {document.all.myOut2.style.left=parseInt(document.all.myOut2.style.left)+20+'px'}}">
+
+<br>
+
+
+for
+for (myLoop=1; myLoop++){
+getElementById('myOut').innerHTML +='Move me'+myLoop
+} 
+                            
+
